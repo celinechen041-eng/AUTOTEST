@@ -1,0 +1,11 @@
+HTTP状态码：200
+{
+  "resp_data": {
+    "session_id": "1d1ee604-d806-4073-87d6-e145cb5e412f",
+    "url": "http://192.168.3.123:8080/games/slosheep/index.html?index_logo=1&language=EN_US&plat_logo=1&server_url=ws%3A%2F%2F192.168.3.123%3A9080%2Fslosheep&show_fps=0&show_logo=1&show_pay_logo=1&token=a532ee867c1f1b5e97ae021db29f48de"
+  },
+  "resp_msg": {
+    "code": 100,
+    "message": "success"
+  }
+}
